@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/pubsub?activeTab=versions
 
+### [2.19.5](https://github.com/googleapis/nodejs-pubsub/compare/v2.19.4...v2.19.5) (2022-05-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency google-gax to v2.30.4 ([#1555](https://github.com/googleapis/nodejs-pubsub/issues/1555)) ([518fce1](https://github.com/googleapis/nodejs-pubsub/commit/518fce1adbdaae492a1d6db38daadb2be9c0a505))
+
 ### [2.19.4](https://github.com/googleapis/nodejs-pubsub/compare/v2.19.3...v2.19.4) (2022-05-05)
 
 
